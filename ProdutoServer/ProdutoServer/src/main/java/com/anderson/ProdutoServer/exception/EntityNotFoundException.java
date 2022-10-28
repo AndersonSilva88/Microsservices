@@ -1,4 +1,4 @@
-package com.anderson.ClienteServer.exception;
+package com.anderson.ProdutoServer.exception;
 
 import org.springframework.util.StringUtils;
 
